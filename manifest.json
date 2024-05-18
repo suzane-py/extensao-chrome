@@ -1,0 +1,10 @@
+{
+    "name": "EcoLogic",
+    "version": "1.0",
+    "description": "Projeto feito para diminuir o consumo de carbono de uma página web.",
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+
+    "manifest_version": 2
+}
