@@ -1,1 +1,7 @@
-# 💻 Projeto de Engenharia de Software
+# 🌐 Extensão do Chrome
+
+Repositório para armazenar o progresso do trabalho de engenharia de software. 
+
+## Links úteis | 🔗
+
+* [Pop-up da extensão]()
