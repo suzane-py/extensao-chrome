@@ -1,11 +1,12 @@
 {
-    "name": "EcoLogic",
+    "manifest_version": 3,
+    "name": "Mudar Fonte (Arial)",
     "version": "1.0",
-    "description": "Projeto feito para diminuir o consumo de carbono de uma página web.",
     "permissions": ["activeTab", "scripting"],
     "action": {
-        "default_popup": "index.html"
+    
     },
-
-    "manifest_version": 3  
+    "background": {
+        "service_worker": "background.js"
+    }
 }
