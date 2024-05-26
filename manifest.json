@@ -4,9 +4,13 @@
     "version": "1.0",
     "permissions": ["activeTab", "scripting"],
     "action": {
-        "default_title": "Diminuir a emissão de carbono de uma página web."
+        "default_title": "Diminuir a emissão de carbono de uma página web.",
+        "default_icon": "assets/ecologic-48.png",
+        "default_popup": "popup/popup.html"
     },
     "background": {
         "service_worker": "chrome.js"
     }
+    
+      
 }
