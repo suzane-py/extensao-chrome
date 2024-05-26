@@ -1,0 +1,172 @@
+.Section1 {
+    width: 517px;
+    height: 803px;
+    background: #1D1D1D;
+    position: relative;
+}
+
+.Rectangle1 {
+    width: 450px;
+    height: 202px;
+    left: 35px;
+    top: 30px;
+    position: absolute;
+    background: white;
+    
+}
+
+.Ellipse1 {
+    width: 121px;
+    height: 122px;
+    left: 187px;
+    top: 403px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 9999px;
+}
+
+.Group1 {
+    width: 64px;
+    height: 62px;
+    left: 35px;
+    top: 251px;
+    position: absolute;
+}
+.bt{
+    cursor: pointer;
+    background-color: #1D1D1D;
+}
+
+.Ellipse2 {
+    width: 64px;
+    height: 62px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: #DAA520;
+    border-radius: 9999px;
+}
+
+.Ellipse3 {
+    width: 41px;
+    height: 40px;
+    left: 12px;
+    top: 12px;
+    position: absolute;
+    background: #DAA520;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9999px;
+    border: 3px rgba(0, 0, 0, 0.97) solid;
+}
+
+.E {
+    width: 15px;
+    height: 0;
+    left: 32px;
+    top: 8px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 2px rgba(0, 0, 0, 0.97) solid;
+}
+
+.Group2 {
+    width: 353px;
+    height: 40px;
+    left: 35px;
+    top: 668px;
+    position: absolute;
+}
+
+.Rectangle2 {
+    width: 40px;
+    height: 40px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: #D9D9D9;
+    cursor: pointer;
+}
+
+.Teste1 {
+    width: 294px;
+    height: 13px;
+    left: 59px;
+    top: 13px;
+    position: absolute;
+    color: white;
+    font-size: 12px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.Group3 {
+    width: 280px;
+    height: 40px;
+    left: 35px;
+    top: 737px;
+    position: absolute;
+}
+
+.Rectangle3 {
+    width: 40px;
+    height: 40px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: #D9D9D9;
+    cursor: pointer;
+}
+
+.Teste2 {
+    width: 222px;
+    height: 9px;
+    left: 58px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 12px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.BotaoPrata {
+    position: absolute;
+    display: block;
+}
+
+.BotaoPrata img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.BotaoPrata11 {
+    width: 373px;
+    height: 182.51px;
+    left: 177.02px;
+    top: 160px;
+    transform: rotate(23.58deg);
+    transform-origin: 0 0;
+}
+
+.BotaoPrata13 {
+    width: 373px;
+    height: 163px;
+    left: 19.07px;
+    top: 670.93px;
+    transform: rotate(-95.53deg);
+    transform-origin: 0 0;
+}
+
+.BotaoPrata12 {
+    width: 373px;
+    height: 163px;
+    left: 545.32px;
+    top: 566.06px;
+    transform: rotate(145.95deg);
+    transform-origin: 0 0;
+
+}
