@@ -1,13 +1,14 @@
 .Section1 {
-    width: 517px;
-    height: 803px;
+    width: 467px;
+    height: 680px;
     background: #1D1D1D;
     position: relative;
+    
 }
 
 .Rectangle1 {
-    width: 450px;
-    height: 202px;
+    width: 400px;
+    height: 142px;
     left: 35px;
     top: 30px;
     position: absolute;
@@ -18,8 +19,8 @@
 .Ellipse1 {
     width: 121px;
     height: 122px;
-    left: 187px;
-    top: 403px;
+    left: 163px;
+    top: 340px;
     position: absolute;
     background: #D9D9D9;
     border-radius: 9999px;
@@ -28,13 +29,14 @@
 .Group1 {
     width: 64px;
     height: 62px;
-    left: 35px;
-    top: 251px;
+    left: 22px;
+    top: 180px;
     position: absolute;
 }
 .bt{
     cursor: pointer;
     background-color: #1D1D1D;
+    scale: 0.7;
 }
 
 .Ellipse2 {
@@ -74,7 +76,7 @@
     width: 353px;
     height: 40px;
     left: 35px;
-    top: 668px;
+    top: 560px;
     position: absolute;
 }
 
@@ -105,7 +107,7 @@
     width: 280px;
     height: 40px;
     left: 35px;
-    top: 737px;
+    top: 620px;
     position: absolute;
 }
 
@@ -146,8 +148,8 @@
 .BotaoPrata11 {
     width: 373px;
     height: 182.51px;
-    left: 177.02px;
-    top: 160px;
+    left: 150.02px;
+    top: 100px;
     transform: rotate(23.58deg);
     transform-origin: 0 0;
 }
@@ -155,8 +157,7 @@
 .BotaoPrata13 {
     width: 373px;
     height: 163px;
-    left: 19.07px;
-    top: 670.93px;
+    top: 610.93px;
     transform: rotate(-95.53deg);
     transform-origin: 0 0;
 }
@@ -164,8 +165,8 @@
 .BotaoPrata12 {
     width: 373px;
     height: 163px;
-    left: 545.32px;
-    top: 566.06px;
+    left: 516.32px;
+    top: 500.06px;
     transform: rotate(145.95deg);
     transform-origin: 0 0;
 
